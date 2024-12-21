@@ -33,7 +33,20 @@
 <img align="left" height="150" src="https://media1.tenor.com/m/JwRNTvlcBF4AAAAC/mario-super-mario.gif"  />
 
 ###
+###
 
+<hr>
+<b>My GitHub Stats</b>
+
+<div style="display: flex; flex-direction: column;">
+  <a href="http://www.github.com/shekhardase" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shekhardase&show_icons=true&hide=stars,prs,issues&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="Shekhar Dase's GitHub stats" />
+  </a>
+
+  <a href="http://www.github.com/shekhardase" style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhardase&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Shekhar Dase's GitHub streak stats" />
+  </a>
+</div>
 <!---
 prathameshmadde/prathameshmadde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
