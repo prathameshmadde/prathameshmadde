@@ -30,14 +30,24 @@
 
 ###
 
-<img align="left" height="150" src="https://media1.tenor.com/m/JwRNTvlcBF4AAAAC/mario-super-mario.gif"  />
+
 
 ###
 ###
 
 <hr>
+<br>
 <b>My GitHub Stats</b>
+###
 
+
+<div style="display: flex; flex-direction: column;">
+  <a href="https://github.com/prathameshmadde" style="flex: 1;">
+
+  <a href="https://github.com/prathameshmadde" style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=prathameshmadde&theme=dark" alt="Prathamesh Madde's GitHub streak stats" />
+  </a>
+</div>
 
 <!---
 prathameshmadde/prathameshmadde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
